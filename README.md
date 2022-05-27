@@ -1,6 +1,6 @@
-# DELIVERY
+# DELIVERY  
 
-A Flutter project for delivery restaurants/fast food.
+A Flutter project for delivery restaurants/fast food.   `Null safety`
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/15063089/170455570-26a4639b-fefc-488c-b915-bee59b9f2b68.PNG" align="center"  width="150">
@@ -10,15 +10,18 @@ A Flutter project for delivery restaurants/fast food.
 <img src="https://user-images.githubusercontent.com/15063089/170459304-710f3255-2c98-41e1-a8de-9c8b51badb68.PNG" align="center"  width="150">
 </p>
 
+## Requirements
+- flutter 2.10+
+
 ## Getting Started
 
 clone this repo and run `flutter pub get` to install all the dependencies
 
-follow the instructions for the firebase module [here](https://firebase.flutter.dev/docs/overview/)
+follow the instructions for the **Firebase** package [here](https://firebase.flutter.dev/docs/overview/)
 
-if you don't need Firebase messaging just comment the initialize on main.dart
+if you don't need Firebase messaging just comment the initialize inside **main.dart**
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
